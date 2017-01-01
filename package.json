@@ -2,8 +2,10 @@
   "name": "chocomint-ui",
   "theme": "ui",
   "version": "0.2.0",
-  "description": "test",
+  "description": "Atom dark-brown flat UI. 🍃",
   "keywords": [
+    "ui",
+    "theme",
     "chocomint",
     "chocolate",
     "mint",
@@ -11,8 +13,7 @@
     "dark",
     "flat",
     "compact",
-    "minimum",
-    "ui"
+    "minimum"
   ],
   "repository": "https://github.com/qrbys/atom-theme-chocomint",
   "license": "MIT",
