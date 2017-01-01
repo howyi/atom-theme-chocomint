@@ -7,4 +7,4 @@ This UI made for [marronlatte-syntax](https://atom.io/packages/marronlatte-synta
 apm install chocomint-ui
 ```
 
-![](https://raw.githubusercontent.com/qrbys/chocomint-ui/master/ScreenShot.png)
+![](https://raw.githubusercontent.com/qrbys/atom-theme-chocomint/master/ScreenShot.png)
