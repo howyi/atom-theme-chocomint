@@ -1,0 +1,22 @@
+{
+  "name": "chocomint-ui",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "test",
+  "keywords": [
+    "chocomint",
+    "chocolate",
+    "mint",
+    "brown",
+    "dark",
+    "flat",
+    "compact",
+    "minimum",
+    "ui"
+  ],
+  "repository": "https://github.com/qrbys/chocomint-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

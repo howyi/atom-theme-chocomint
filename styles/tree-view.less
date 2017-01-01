@@ -1,0 +1,20 @@
+.tree-view-scroller {
+    padding: 10px 0 0 10px;
+    font-size: @font-size;
+    background: @app-background-color;
+
+    .entry:before {
+        background: @accent-color-subtle;
+    }
+
+    .file.selected .name {
+        color: @text-color-highlight;
+        font-weight: 500;
+    }
+}
+
+.tree-view-resizer {
+    .tree-view-resize-handle {
+        width: 10px;
+    }
+}
