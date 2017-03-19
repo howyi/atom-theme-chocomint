@@ -1,4 +1,4 @@
-atom-text-editor {
+atom-text-editor.editor {
     atom-overlay {
         atom-ternjs-type {
             padding: 0;
@@ -60,11 +60,9 @@ atom-text-editor {
         }
     }
 
-    &::shadow {
-        atom-text-editor-minimap {
-            /deep/ .minimap-visible-area {
-                background: fadeout(@accent-color-subtle, 15%) !important;
-            }
+    atom-text-editor-minimap {
+        /deep/ .minimap-visible-area {
+            background: fadeout(@accent-color-subtle, 15%) !important;
         }
     }
 }
