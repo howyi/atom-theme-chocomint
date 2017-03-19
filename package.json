@@ -1,23 +1,23 @@
 {
-    "name": "chocomint-ui",
-    "theme": "ui",
-    "version": "0.2.1",
-    "description": "Atom dark-brown flat UI. 🍃",
-    "keywords": [
-        "ui",
-        "theme",
-        "chocomint",
-        "chocolate",
-        "mint",
-        "brown",
-        "dark",
-        "flat",
-        "compact",
-        "minimum"
-    ],
-    "repository": "https://github.com/qrbys/atom-theme-chocomint",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "chocomint-ui",
+  "theme": "ui",
+  "version": "0.3.0",
+  "description": "Atom dark-brown flat UI. 🍃",
+  "keywords": [
+    "ui",
+    "theme",
+    "chocomint",
+    "chocolate",
+    "mint",
+    "brown",
+    "dark",
+    "flat",
+    "compact",
+    "minimum"
+  ],
+  "repository": "https://github.com/qrbys/atom-theme-chocomint",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
